@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93001f57-5b45-487a-93c5-17a4f9f650f7" name="Changes" comment="프젝 생성">
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerData1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerData2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueObjectData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueObjectDataMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/RectangleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex2/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex2/AccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/기본형과참조형/Class_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/기본형과참조형/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/기본형과참조형/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/기본형과참조형/변수값초기화/readme.md" afterDir="false" />
+    <list default="true" id="93001f57-5b45-487a-93c5-17a4f9f650f7" name="Changes" comment="객체지향">
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberInitMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberInitMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +51,7 @@
       <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AccountMain">
+  <component name="RunManager" selected="Application.MemberInitMain1">
     <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop1.ex2.AccountMain" />
       <module name="java-basic" />
@@ -77,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieReviewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ex1.MovieReviewMain" />
+    <configuration name="MemberInitMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MemberInitMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ex1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MemberInitMain1" />
         <item itemvalue="Application.AccountMain" />
         <item itemvalue="Application.RectangleMain" />
         <item itemvalue="Application.MusicPlayerMain2" />
         <item itemvalue="Application.ValueObjectDataMain" />
-        <item itemvalue="Application.MovieReviewMain" />
       </list>
     </recent_temporary>
   </component>
@@ -156,11 +144,20 @@
       <option name="project" value="LOCAL" />
       <updated>1740989239123</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="객체지향">
+      <option name="closed" value="true" />
+      <created>1741685215574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741685215574</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="프젝 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="프젝 생성" />
+    <MESSAGE value="객체지향" />
+    <option name="LAST_COMMIT_MESSAGE" value="객체지향" />
   </component>
 </project>
