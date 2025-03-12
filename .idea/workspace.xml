@@ -5,25 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93001f57-5b45-487a-93c5-17a4f9f650f7" name="Changes" comment="this">
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/extends.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/HydrogenCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/오버라이딩.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Super1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +59,7 @@
       <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.extends1.overriding.CarMain">
+  <component name="RunManager" selected="Application.Super1Main">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extends1.ex2.CarMain" />
       <module name="java-basic" />
@@ -99,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.MemberConstructMain1" />
+    <configuration name="SpeakerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access.SpeakerMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="access.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpeakerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.SpeakerMain" />
+    <configuration name="Super1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.super1.Super1Main" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.*" />
+          <option name="PATTERN" value="extends1.super1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Super1Main" />
         <item itemvalue="Application.extends1.overriding.CarMain" />
         <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.DataMain" />
         <item itemvalue="Application.SpeakerMain" />
-        <item itemvalue="Application.MemberConstructMain1" />
       </list>
     </recent_temporary>
   </component>
