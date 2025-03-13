@@ -5,36 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93001f57-5b45-487a-93c5-17a4f9f650f7" name="Changes" comment="this">
-      <change afterPath="$PROJECT_DIR$/src/interface1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/InterfaceAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/InterfaceMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/diamond/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/diamond/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/diamond/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/diamond/인터페이스다중구현.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/인터페이스.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/CastingMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/PolyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/AnimalSoundMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Caw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalSoundMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Caw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractAnimalSoundMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Caw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/추상클래스.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/다형성.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z/ex1/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z/ex1/FaceBookSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z/ex1/SendMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z/ex1/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z/ex1/SmsSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z/ex1/문제1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z/ex2/문제2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
